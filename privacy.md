@@ -1,9 +1,8 @@
-Privacy Policy
-Last updated: April 11, 2022
+**Privacy Policy**
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+This Privacy Policy describes our policies and procedures on the collection, use and disclosure of Your information when you use the service and tells you about your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Template.
+We use your personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 Interpretation and Definitions
 Interpretation
@@ -126,4 +125,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By visiting this page on our website: https://discord.gg/kG7EZQZXkc
+By visiting our [Support Server](https://discord.gg/kG7EZQZXkc)
